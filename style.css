@@ -1,0 +1,7 @@
+.scoreBoard {
+    display: inline-flex;
+}
+
+.scoreBoard * {
+    padding: 0 20px;
+}
