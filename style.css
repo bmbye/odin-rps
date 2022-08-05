@@ -5,3 +5,7 @@
 .scoreBoard * {
     padding: 0 20px;
 }
+
+.options {
+    margin-top: 50px;
+}
